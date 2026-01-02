@@ -16,7 +16,7 @@
       "description": "ReoMC Fabric server",
       "version": "1.21.11",
       "address": "play.reomc.net",
-      "icon": "https://i.ibb.co/ZvjxrFx/21bea988ec8cc808500f0877fc5c2ee6.png",
+      "icon": "https://cdn.discordapp.com/icons/1000825083989856337/21bea988ec8cc808500f0877fc5c2ee6.webp?size=1024",
       "minecraftVersion": "1.21.11",
       "mainServer": true,
       "autoconnect": true,
@@ -28,7 +28,7 @@
           "artifact": {
             "size": 0,
             "MD5": "",
-            "url": ""
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.5/fabric-loader-0.16.5.jar"
           }
         }
       ]
