@@ -16,6 +16,7 @@
       "description": "ReoMC Fabric server",
       "version": "1.21.11",
       "address": "play.reomc.net",
+      "icon": "https://cdn.discordapp.com/attachments/1398320292186816596/1456704892457717780/21bea988ec8cc808500f0877fc5c2ee6.png?ex=695955a6&is=69580426&hm=2d2ae43a8045a6d4de5c401ba00598e98df8248c6d29822c64e2a7c4106930ed&",
       "minecraftVersion": "1.21.11",
       "mainServer": true,
       "autoconnect": true,
