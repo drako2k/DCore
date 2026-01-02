@@ -15,7 +15,7 @@
       "name": "ReoMC",
       "description": "ReoMC Fabric server",
       "version": "1.21.11",
-      "address": "play.reomc.net",
+      "address": "localhost:25565",
       "icon": "https://cdn.discordapp.com/icons/1000825083989856337/21bea988ec8cc808500f0877fc5c2ee6.webp?size=1024",
       "minecraftVersion": "1.21.11",
       "mainServer": true,
